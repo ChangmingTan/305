@@ -1,0 +1,16 @@
+.err {
+    color: darkred;
+    visibility: hidden;
+}
+
+#container {
+    width: 30%;
+}
+
+h1 {
+    padding-top: 3%;
+}
+
+#submit-btn {
+    margin-bottom: 20%;
+}

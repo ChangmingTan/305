@@ -1,0 +1,48 @@
+body {
+    background-color: lightgray;
+    margin: 60px 150px;
+}
+
+fieldset {
+    border: solid 1px darkblue;
+    padding: 1em;
+}
+
+legend {
+    color: darkblue;
+    font-variant: small-caps;
+}
+
+#main {
+    background-color: white;
+    padding: 1em 5em 3em 5em;
+}
+
+.btn {
+    margin-top: 2%;
+}
+
+#emailFormat {
+    padding-top: 2%;
+}
+
+.form-check-inline {
+    padding-left: 15px;
+}
+
+.asterisk {
+    color: darkred;
+}
+
+.err {
+    color: darkred;
+    visibility: hidden;
+}
+
+#emailFormat, #ifother {
+    display: none;
+}
+
+.container{
+  margin-left: 5px;
+}

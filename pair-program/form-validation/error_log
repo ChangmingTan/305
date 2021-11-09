@@ -1,0 +1,13 @@
+[23-Jan-2020 03:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home/ctangree/public_html/305/pair-program/form-validation/form-validation.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ctangree/public_html/305/pair-program/form-validation/form-validation.php on line 18
+[23-Jan-2020 03:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home/ctangree/public_html/305/pair-program/form-validation/form-validation.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ctangree/public_html/305/pair-program/form-validation/form-validation.php on line 18
+[23-Jan-2020 03:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home/ctangree/public_html/305/pair-program/form-validation/form-validation.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ctangree/public_html/305/pair-program/form-validation/form-validation.php on line 21
+[23-Jan-2020 03:33:12 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ctangree/public_html/305/pair-program/form-validation/form-validation.php on line 19

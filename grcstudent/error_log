@@ -1,0 +1,223 @@
+[13-Feb-2020 22:30:24 UTC] PHP Notice:  Undefined index: sid in /home/ctangree/public_html/305/grcstudent/add-student.php on line 34
+[13-Feb-2020 22:30:24 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/add-student.php on line 35
+[13-Feb-2020 22:30:24 UTC] PHP Notice:  Undefined index: lastName in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[13-Feb-2020 22:30:24 UTC] PHP Notice:  Undefined index: birthday in /home/ctangree/public_html/305/grcstudent/add-student.php on line 37
+[13-Feb-2020 22:30:24 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/add-student.php on line 38
+[13-Feb-2020 22:30:24 UTC] PHP Notice:  Undefined index: advisor in /home/ctangree/public_html/305/grcstudent/add-student.php on line 39
+[13-Feb-2020 22:32:04 UTC] PHP Notice:  Undefined index: sid in /home/ctangree/public_html/305/grcstudent/add-student.php on line 34
+[13-Feb-2020 22:32:04 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/add-student.php on line 35
+[13-Feb-2020 22:32:04 UTC] PHP Notice:  Undefined index: lastName in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[13-Feb-2020 22:32:04 UTC] PHP Notice:  Undefined index: birthday in /home/ctangree/public_html/305/grcstudent/add-student.php on line 37
+[13-Feb-2020 22:32:04 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/add-student.php on line 38
+[13-Feb-2020 22:32:04 UTC] PHP Notice:  Undefined index: advisor in /home/ctangree/public_html/305/grcstudent/add-student.php on line 39
+[13-Feb-2020 22:33:05 UTC] PHP Notice:  Undefined index: birthday in /home/ctangree/public_html/305/grcstudent/add-student.php on line 37
+[13-Feb-2020 22:33:30 UTC] PHP Notice:  Undefined index: birthday in /home/ctangree/public_html/305/grcstudent/add-student.php on line 37
+[13-Feb-2020 22:34:33 UTC] PHP Notice:  Undefined index: birthday in /home/ctangree/public_html/305/grcstudent/add-student.php on line 37
+[13-Feb-2020 22:37:52 UTC] PHP Notice:  Undefined index: birthday in /home/ctangree/public_html/305/grcstudent/add-student.php on line 37
+[13-Feb-2020 22:38:37 UTC] PHP Notice:  Undefined variable: birthday in /home/ctangree/public_html/305/grcstudent/add-student.php on line 43
+[13-Feb-2020 22:44:15 UTC] PHP Notice:  Undefined index: sid in /home/ctangree/public_html/305/grcstudent/add-student.php on line 34
+[13-Feb-2020 22:44:15 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/add-student.php on line 35
+[13-Feb-2020 22:44:15 UTC] PHP Notice:  Undefined index: lastName in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[13-Feb-2020 22:44:15 UTC] PHP Notice:  Undefined index: birthdate in /home/ctangree/public_html/305/grcstudent/add-student.php on line 37
+[13-Feb-2020 22:44:15 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/add-student.php on line 38
+[13-Feb-2020 22:44:15 UTC] PHP Notice:  Undefined index: advisor in /home/ctangree/public_html/305/grcstudent/add-student.php on line 39
+[13-Feb-2020 23:00:35 UTC] PHP Warning:  require(/home/ctangree/db.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 53
+[13-Feb-2020 23:00:35 UTC] PHP Warning:  require(/home/ctangree/db.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 53
+[13-Feb-2020 23:00:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/ctangree/db.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 53
+[25-Feb-2020 21:10:02 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/students.php on line 14
+[25-Feb-2020 21:10:02 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/students.php on line 14
+[25-Feb-2020 21:10:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/students.php on line 14
+[25-Feb-2020 21:11:55 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 55
+[25-Feb-2020 21:11:55 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 55
+[25-Feb-2020 21:11:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 55
+[25-Feb-2020 21:12:21 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 55
+[25-Feb-2020 21:12:21 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 55
+[25-Feb-2020 21:12:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 55
+[25-Feb-2020 21:13:48 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:13:48 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:13:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:15:44 UTC] PHP Notice:  Undefined variable: sid in /home/ctangree/public_html/305/grcstudent/new-student.php on line 30
+[25-Feb-2020 21:15:44 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:15:44 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:15:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:28 UTC] PHP Notice:  Undefined variable: sid in /home/ctangree/public_html/305/grcstudent/new-student.php on line 30
+[25-Feb-2020 21:16:28 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:28 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:37 UTC] PHP Notice:  Undefined variable: sid in /home/ctangree/public_html/305/grcstudent/new-student.php on line 30
+[25-Feb-2020 21:16:37 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:37 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:41 UTC] PHP Notice:  Undefined variable: sid in /home/ctangree/public_html/305/grcstudent/new-student.php on line 30
+[25-Feb-2020 21:16:41 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:41 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:16:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 59
+[25-Feb-2020 21:17:13 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 60
+[25-Feb-2020 21:17:13 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 60
+[25-Feb-2020 21:17:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 60
+[25-Feb-2020 21:19:15 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 62
+[25-Feb-2020 21:19:15 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 62
+[25-Feb-2020 21:19:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 62
+[25-Feb-2020 21:19:37 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 62
+[25-Feb-2020 21:19:37 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 62
+[25-Feb-2020 21:19:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 62
+[25-Feb-2020 21:22:14 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:14 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:40 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:40 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:53 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:53 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:22:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:23:07 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:23:07 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:23:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:24:15 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:24:15 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:24:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:24:59 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:24:59 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:24:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:25:27 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:25:27 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:25:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:34:36 UTC] PHP Notice:  Undefined variable: cnxn in /home/ctangree/public_html/305/grcstudent/students.php on line 43
+[25-Feb-2020 21:34:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ctangree/public_html/305/grcstudent/students.php on line 43
+[25-Feb-2020 21:34:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ctangree/public_html/305/grcstudent/students.php on line 47
+[25-Feb-2020 21:34:46 UTC] PHP Notice:  Undefined variable: cnxn in /home/ctangree/public_html/305/grcstudent/students.php on line 43
+[25-Feb-2020 21:34:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ctangree/public_html/305/grcstudent/students.php on line 43
+[25-Feb-2020 21:34:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ctangree/public_html/305/grcstudent/students.php on line 47
+[25-Feb-2020 21:36:20 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[25-Feb-2020 21:48:20 UTC] PHP Notice:  Undefined variable: first in /home/ctangree/public_html/305/grcstudent/new-student.php on line 65
+[25-Feb-2020 21:48:20 UTC] PHP Notice:  Undefined variable: last in /home/ctangree/public_html/305/grcstudent/new-student.php on line 69
+[25-Feb-2020 21:48:20 UTC] PHP Notice:  Undefined variable: birthdate in /home/ctangree/public_html/305/grcstudent/new-student.php on line 73
+[25-Feb-2020 21:48:20 UTC] PHP Notice:  Undefined variable: gpa in /home/ctangree/public_html/305/grcstudent/new-student.php on line 77
+[25-Feb-2020 21:54:21 UTC] PHP Notice:  Undefined variable: gpa in /home/ctangree/public_html/305/grcstudent/new-student.php on line 75
+[25-Feb-2020 21:55:22 UTC] PHP Notice:  Undefined variable: first in /home/ctangree/public_html/305/grcstudent/new-student.php on line 63
+[25-Feb-2020 21:55:22 UTC] PHP Notice:  Undefined variable: last in /home/ctangree/public_html/305/grcstudent/new-student.php on line 67
+[25-Feb-2020 21:59:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ctangree/public_html/305/grcstudent/new-student.php on line 28
+[25-Feb-2020 22:32:42 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[25-Feb-2020 22:32:42 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[25-Feb-2020 22:32:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[25-Feb-2020 22:32:48 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[25-Feb-2020 22:32:48 UTC] PHP Warning:  require(/home/tostrand/db2.php): failed to open stream: No such file or directory in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[25-Feb-2020 22:32:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/tostrand/db2.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ctangree/public_html/305/grcstudent/add-student.php on line 36
+[25-Feb-2020 22:35:35 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[27-Feb-2020 09:40:53 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[28-Feb-2020 01:03:30 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[28-Feb-2020 01:03:30 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[29-Feb-2020 07:11:01 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[29-Feb-2020 07:11:01 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[01-Mar-2020 04:24:17 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[01-Mar-2020 04:24:17 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[01-Mar-2020 13:26:24 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[01-Mar-2020 13:26:24 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[06-Mar-2020 15:05:09 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[06-Mar-2020 15:05:09 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[20-Mar-2020 17:45:58 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[20-Mar-2020 17:45:58 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[03-Apr-2020 20:00:05 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[03-Apr-2020 20:00:05 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[09-Apr-2020 19:16:13 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[09-Apr-2020 19:16:13 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[15-Apr-2020 09:24:21 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[15-Apr-2020 09:24:21 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[17-Apr-2020 09:18:13 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[17-Apr-2020 09:18:13 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[23-Apr-2020 00:14:26 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[23-Apr-2020 00:14:26 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[23-Apr-2020 13:30:32 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[23-Apr-2020 13:30:32 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[08-May-2020 04:46:46 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[08-May-2020 04:46:46 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[11-May-2020 03:25:33 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[11-May-2020 03:25:33 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[17-May-2020 23:11:00 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[17-May-2020 23:11:00 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[18-May-2020 09:31:04 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[18-May-2020 09:31:04 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[25-May-2020 22:45:30 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[25-May-2020 22:45:30 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[31-May-2020 00:38:54 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[31-May-2020 00:38:54 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[07-Jun-2020 17:33:46 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[07-Jun-2020 17:33:46 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[13-Jun-2020 12:21:03 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[13-Jun-2020 12:21:03 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[13-Jun-2020 12:21:13 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[13-Jun-2020 12:21:13 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[13-Jun-2020 12:25:24 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[13-Jun-2020 12:25:24 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[13-Jun-2020 12:25:43 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[13-Jun-2020 12:25:43 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[19-Jun-2020 12:10:17 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[19-Jun-2020 12:10:17 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[20-Jun-2020 17:23:32 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[20-Jun-2020 17:23:32 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[01-Jul-2020 05:43:30 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[01-Jul-2020 05:43:30 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[11-Jul-2020 16:02:35 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[11-Jul-2020 16:02:35 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[12-Jul-2020 19:27:40 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[12-Jul-2020 19:27:40 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[23-Jul-2020 16:26:54 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[23-Jul-2020 16:26:54 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[30-Jul-2020 21:31:08 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[30-Jul-2020 21:31:08 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[02-Aug-2020 12:58:08 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[02-Aug-2020 12:58:08 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[09-Aug-2020 17:25:24 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[09-Aug-2020 17:25:24 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[12-Aug-2020 19:34:09 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[12-Aug-2020 19:34:09 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[15-Aug-2020 03:52:36 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[15-Aug-2020 03:52:36 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[21-Aug-2020 10:47:48 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[21-Aug-2020 10:47:48 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[29-Aug-2020 13:51:10 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[29-Aug-2020 13:51:10 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[05-Sep-2020 11:43:40 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[05-Sep-2020 11:43:40 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[08-Sep-2020 13:35:17 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[08-Sep-2020 13:35:17 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[14-Sep-2020 07:45:28 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[14-Sep-2020 07:45:28 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[17-Sep-2020 15:50:49 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[17-Sep-2020 15:50:49 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[20-Sep-2020 19:49:16 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[20-Sep-2020 19:49:16 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[24-Sep-2020 09:24:46 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[24-Sep-2020 09:24:46 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[09-Oct-2020 05:52:45 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[09-Oct-2020 05:52:45 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[14-Oct-2020 11:57:54 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[14-Oct-2020 11:57:54 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[23-Oct-2020 13:53:40 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[23-Oct-2020 13:53:40 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[31-Oct-2020 18:13:25 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[31-Oct-2020 18:13:25 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[01-Nov-2020 07:51:25 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[01-Nov-2020 07:51:25 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[03-Nov-2020 15:24:45 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[03-Nov-2020 15:24:45 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[13-Nov-2020 06:12:56 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[13-Nov-2020 06:12:56 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[16-Nov-2020 07:06:40 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[16-Nov-2020 07:06:40 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[21-Nov-2020 00:27:43 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[21-Nov-2020 00:27:43 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[24-Nov-2020 00:16:43 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[24-Nov-2020 00:16:43 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[30-Nov-2020 20:03:10 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[30-Nov-2020 20:03:10 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[23-Jan-2021 07:45:27 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[23-Jan-2021 07:45:27 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[26-Jan-2021 05:44:02 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[26-Jan-2021 05:44:02 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[24-Mar-2021 11:18:50 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[24-Mar-2021 11:18:50 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[27-Apr-2021 22:28:35 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[27-Apr-2021 22:28:35 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
+[28-Apr-2021 22:42:28 UTC] PHP Notice:  Undefined index: gpa in /home/ctangree/public_html/305/grcstudent/validate.php on line 4
+[28-Apr-2021 22:42:28 UTC] PHP Notice:  Undefined index: firstName in /home/ctangree/public_html/305/grcstudent/validate.php on line 5
